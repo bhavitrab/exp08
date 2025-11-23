@@ -92,6 +92,49 @@ Thus the D flipflop using verilog and validating their functionality using their
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .
 
 
